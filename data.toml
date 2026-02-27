@@ -1,12 +1,12 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
+name = "Matt Clark"
+description = "Principal Product Manager - American College of Radiology"
 keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+image = "headshot.jpg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://acr.og"
 
 [[sections]]
 title = "Movies"
